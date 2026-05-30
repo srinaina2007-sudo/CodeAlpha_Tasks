@@ -18,10 +18,6 @@ https://srinaina2007-sudo.github.io/CodeAlpha_Image-gallery/
 ## 📂 GitHub Repository
 https://github.com/srinaina2007-sudo/CodeAlpha_Image-gallery
 
-## 📷 Preview
-
-![Image Gallery](CodeAlpha_Image%20gallery/images/project1.png)
-
 ---
 
 # 2️⃣ Modern Calculator
@@ -33,10 +29,6 @@ https://srinaina2007-sudo.github.io/CodeAlpha_Calculator/
 
 ## 📂 GitHub Repository
 https://github.com/srinaina2007-sudo/CodeAlpha_Calculator
-
-## 📷 Preview
-
-![Calculator](CodeAlpha_Calculator/images/project2.png)
 
 ---
 
@@ -55,10 +47,6 @@ https://srinaina2007-sudo.github.io/CodeAlpha_Portfolio/
 
 ## 📂 GitHub Repository
 https://github.com/srinaina2007-sudo/CodeAlpha_Portfolio
-
-## 📷 Preview
-
-![Portfolio](CodeAlpha_Portfolio/Images/portfolio-preview.png)
 
 ---
 
